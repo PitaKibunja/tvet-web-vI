@@ -1,4 +1,5 @@
 <template>
+<h1>The kenyan market</h1>
   <v-data-table
     dense
     :headers="headers"
